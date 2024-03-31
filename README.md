@@ -5,11 +5,11 @@ In this project, I will visualize the history of oil production by state in the 
 
 
 ## Data Overview:
-Source : [Bureau of Transportation Statistics](https://www.bts.gov/browse-statistical-products-and-data/freight-facts-and-figures/us-crude-oil-production-state)
+**Source :** [Bureau of Transportation Statistics](https://www.bts.gov/browse-statistical-products-and-data/freight-facts-and-figures/us-crude-oil-production-state)
 
 ![usoilproductiondata](https://github.com/goyoju/U.S._Oil_Production_Visualization/assets/61122366/77455dc0-4f2e-4b71-8f37-637e5307b0c0)
 
-The state names should be in their abbreviated form.
+The state names should be in their **abbreviated form**.
 
 ![abbbdata](https://github.com/goyoju/U.S._Oil_Production_Visualization/assets/61122366/2c96d547-a7e9-449b-88c0-c901f96f5110)
 
